@@ -1,2 +1,1 @@
-# core
-Recreating Core Concepts
+# Recreating JavaScriptCore Concepts
